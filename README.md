@@ -17,7 +17,7 @@ git clone https://github.com/yongkanghe/ocp-k10.git
 ````
 3. Complete the preparation tasks first
 ````
-cd ocp-k10/ocp-aws-k10;./ocp-aws-prep.sh
+cd ocp-aws-k10;./ocp-aws-prep.sh
 ````
 4. Optionally, you can customize region, bucketname, object storage profile etc.
 ````
