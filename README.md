@@ -13,7 +13,7 @@ If you don't have an OpenShift Cluster, you can watch the Youtube video and foll
 1. Log in to the terminal where you can access the OpenShift Cluster via oc
 2. Clone the github repo to your local host, run below command
 ````
-git clone https://github.com/yongkanghe/ocp-k10.git
+git clone https://github.com/yongkanghe/ocp-aws-k10.git
 ````
 3. Complete the preparation tasks first
 ````
